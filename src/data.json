@@ -1,0 +1,51 @@
+{
+  "en": {
+    "translation": {
+      "header-1": "Home",
+      "header-2": "About",
+      "header-3": "Product",
+      "header-4": "Cart",
+      "home-h1": "We are changing the way people shop",
+      "home-p": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore repellat explicabo enim soluta temporibus asperiores aut obcaecati perferendis porro nobis.",
+      "home-button": "OUR PRODUCTS",
+      "home-feature": "Featured Products",
+
+      "about-h1": "We love",
+      "about-h1-span": "comfy",
+      "about-p": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore quae quam blanditiis vitae, dolor non eveniet ipsum voluptatibus, quia optio aut! Perferendis ipsa cumque ipsam nostrum reprehenderit ad illo sed officiis ea tempore! Similique eos minima sit porro, ratione aspernatur!"
+    }
+  },
+  "uz": {
+    "translation": {
+      "header-1": "Asosiy",
+      "header-2": "Biz haqimizda",
+      "header-3": "Mahsulotlar",
+      "header-4": "Savatcha",
+      "home-h1": "Biz odamlarning xarid qilish uslubini o'zgartirmoqdamiz",
+      "home-p": "Bu yerda otlar yo'q lekin siz uchun mahsulotlar bor Ba'lumotlar yo'q lekin siz uchun mahsulotlar bor Bu yerda siz haqingizda ma'lkin siz uchun mahsulotlar bor",
+      "home-button": "BIZNING MAHSULOTLAR",
+      "home-feature": "Tanlangan mahsulotlar",
+
+      "about-h1": "Biz sevamiz",
+      "about-h1-span": "qulaylikni",
+      "about-p": "Bu yerda simotlar yo'q lekin siz uchun mahsulotlar bor Bu yerda siz haqingizda ma'lumotlar yo'q lekilotlar bor Bu yerda siz haqingizda ma'lumotlar yo'q lekin siz uchun mahsulotlar bor Bu yerda siz haqingizda ma'lumotlar yo'q lekin s yerda siz haqingizda ma'lumotlar yo'q lekin siz uchun mahsulotlar bor"
+    }
+  },
+
+  "ru": {
+    "translation": {
+      "header-1": "Основной",
+      "header-2": "О нас",
+      "header-3": "Продукты",
+      "header-4": "Корзина",
+      "home-h1": "Мы меняем способ совершения покупок",
+      "home-p": "Здесь нет инфос, но есть товары ас Здесь нет информации о вас, но есть товары для вас Здесь нет информации о вас, но есть товары для вас",
+      "home-button": "НАШИ ПРОДУКТЫ",
+      "home-feature": "Выбранные продукты",
+
+      "about-h1": "Мы любим",
+      "about-h1-span": "удобство",
+      "about-p": "Здесь но есть товары двары для вас. О вас нет информации, но есть товары для вас. Здесь нет информации о вас, но есть товары для вас Здесь нет информации о вас, но есть товары для васfЗдесь нет информации о вас, но есть товары для вас"
+    }
+  }
+}
