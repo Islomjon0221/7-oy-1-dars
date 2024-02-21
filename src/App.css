@@ -333,6 +333,17 @@ header nav ul li {
     box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1); 
 }
 
+.cart-d {
+    color: #4c546a;
+}
+
+.wrapper-cart span {
+    margin-right: 10px;
+    color: #057aff;
+    font-size: 20px;
+    font-weight: 600;
+}
+
 .cart img {
     object-fit: cover;
   border-radius: 0.75rem;

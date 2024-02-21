@@ -31,10 +31,10 @@ function Cart() {
             return (<div className="wrapper-cart"  key={i}>
                 <div className="cart">
                     <img width="392" height="300" src={res.card.image} alt="" />
-                    <div><h3 className="cart-h3">Name:{res.card.title}</h3>
-                    <h3 className="cart-h3">Company:{res.card.company}</h3>
-                    <p className="card-d"><span>Description:</span>{res.card.description}</p>
-                    <h3 className="cart-p">Price:${newNum}.99</h3></div>
+                    <div><h3 className="cart-h3"><span>Name:</span>{res.card.title}</h3>
+                    <h3 className="cart-h3"><span>Company:</span>{res.card.company}</h3>
+                    <p className="cart-d"><span>Description:</span>{res.card.description}</p>
+                    <h3 className="cart-p"><span>Price:</span>${newNum}.99</h3></div>
                 </div>
             </div>
             )
